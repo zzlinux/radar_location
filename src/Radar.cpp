@@ -159,7 +159,7 @@ namespace hitcrt
             cout <<"l.size = "<<LINES[i].size()<<" l.front = "<<LINES[i].front()<<endl;
             findLine=KalmanFiltePoints(findLine);
             lines.push_back(findLine);
-            //myimshow(findLine);
+            myimshow(findLine);
             fillMat(image,findLine,i<3?color[i]:RANDCOLOR);
             // fill the line num
             stringstream text;
