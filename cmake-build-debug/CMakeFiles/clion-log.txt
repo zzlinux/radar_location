@@ -1,4 +1,4 @@
-/home/robocon/下载/clion-2017.2.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/robocon/workspace/CLionProjects/radar_location
+/home/robocon/Documents/software/clion-2017.2.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/robocon/workspace/CLionProjects/radar_location
 -- Boost version: 1.54.0
 -- Configuring done
 -- Generating done

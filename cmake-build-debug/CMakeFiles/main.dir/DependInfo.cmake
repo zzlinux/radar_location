@@ -21,8 +21,8 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
   "../radar"
   "../include"
   "../{OPENCV_INCLUDE_DIRS}"
-  "/usr/local/include"
   "/usr/local/include/opencv"
+  "/usr/local/include"
   )
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/robocon/workspace/CLionProjects/radar_location/radar/Connection_information.cpp" "/home/robocon/workspace/CLionProjects/radar_location/cmake-build-debug/CMakeFiles/main.dir/radar/Connection_information.cpp.o"
@@ -43,8 +43,8 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "../radar"
   "../include"
   "../{OPENCV_INCLUDE_DIRS}"
-  "/usr/local/include"
   "/usr/local/include/opencv"
+  "/usr/local/include"
   )
 
 # Targets to which this target links.

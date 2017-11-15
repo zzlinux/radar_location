@@ -7,11 +7,11 @@ C_FLAGS = -g
 
 C_DEFINES = 
 
-C_INCLUDES = -I/home/robocon/workspace/CLionProjects/radar_location/radar -I/home/robocon/workspace/CLionProjects/radar_location/include -I/home/robocon/workspace/CLionProjects/radar_location/{OPENCV_INCLUDE_DIRS} -isystem /usr/local/include -isystem /usr/local/include/opencv 
+C_INCLUDES = -I/home/robocon/workspace/CLionProjects/radar_location/radar -I/home/robocon/workspace/CLionProjects/radar_location/include -I/home/robocon/workspace/CLionProjects/radar_location/{OPENCV_INCLUDE_DIRS} -isystem /usr/local/include/opencv -isystem /usr/local/include 
 
 CXX_FLAGS = -g   -std=gnu++11
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/robocon/workspace/CLionProjects/radar_location/radar -I/home/robocon/workspace/CLionProjects/radar_location/include -I/home/robocon/workspace/CLionProjects/radar_location/{OPENCV_INCLUDE_DIRS} -isystem /usr/local/include -isystem /usr/local/include/opencv 
+CXX_INCLUDES = -I/home/robocon/workspace/CLionProjects/radar_location/radar -I/home/robocon/workspace/CLionProjects/radar_location/include -I/home/robocon/workspace/CLionProjects/radar_location/{OPENCV_INCLUDE_DIRS} -isystem /usr/local/include/opencv -isystem /usr/local/include 
 

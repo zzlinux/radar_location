@@ -47,8 +47,8 @@
 					<Add directory="/home/robocon/workspace/CLionProjects/radar_location/radar"/>
 					<Add directory="/home/robocon/workspace/CLionProjects/radar_location/include"/>
 					<Add directory="/home/robocon/workspace/CLionProjects/radar_location/{OPENCV_INCLUDE_DIRS}"/>
-					<Add directory="/usr/local/include"/>
 					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/local/include"/>
 					<Add directory="/usr/include/c++/4.8"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
 					<Add directory="/usr/include/c++/4.8/backward"/>
@@ -74,8 +74,8 @@
 					<Add directory="/home/robocon/workspace/CLionProjects/radar_location/radar"/>
 					<Add directory="/home/robocon/workspace/CLionProjects/radar_location/include"/>
 					<Add directory="/home/robocon/workspace/CLionProjects/radar_location/{OPENCV_INCLUDE_DIRS}"/>
-					<Add directory="/usr/local/include"/>
 					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/local/include"/>
 					<Add directory="/usr/include/c++/4.8"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
 					<Add directory="/usr/include/c++/4.8/backward"/>
